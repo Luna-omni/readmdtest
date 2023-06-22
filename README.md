@@ -44,6 +44,7 @@ We provide an easy and detailed [documentation](https://docs.omnitalk.io/javascr
 
 ## Example Projects
 
-We have some basic eample projects included in the [demo](https://github.com/omnistory-labs/omnitalk.sdk/tree/main/demos) directory.
+We have some basic eample projects included in the [demo](https://github.com/omnistory-labs/omnitalk.sdk/tree/demos) directory.
+
 
 
