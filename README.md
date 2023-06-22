@@ -4,7 +4,7 @@
 </p><br/>
 
 
-# Omnitalk Javascript & Typescript SDK 
+# Omnitalk `language` SDK 
 
 Omnitalk is a sdk that helps you easily implement real time communication on your web/app.
 <br/><br/>
