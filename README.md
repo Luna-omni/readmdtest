@@ -6,7 +6,11 @@
 
 # Omnitalk `language` SDK 
 
+
 Omnitalk is a sdk that helps you easily implement real time communication on your web/app.
+
+[![kor](https://img.shields.io/badge/lang-kor-F86F03.svg)](https://github.com/Luna-omni/sdk-read-me/edit/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-FFA41B.svg)](https://github.com/Luna-omni/sdk-read-me/edit/main/README-en.md)
 <br/><br/>
 
 
