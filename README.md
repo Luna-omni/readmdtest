@@ -7,7 +7,7 @@
 # Omnitalk `language` SDK 
 
 
-Omnitalk is a sdk that helps you easily implement real time communication on your web/app.
+옴니톡은 web/app에서 간단하게 실시간 통신을 구현 가능하게 해주는 SDK입니다.<br/>
 
 [![kor](https://img.shields.io/badge/lang-kor-F86F03.svg)](https://github.com/Luna-omni/sdk-read-me/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-FFA41B.svg)](https://github.com/Luna-omni/sdk-read-me/blob/main/README.en.md)
@@ -27,9 +27,9 @@ Omnitalk is a sdk that helps you easily implement real time communication on you
 
 ## Pre-Requisite
 
-- omnitalk service id, service key
-  - Visit [omnitalk.io](https://omnitalk.io) to get omnitalk service id and service key.
-  - You can also get a one-hour test key [here](https://omnitalk.io/demo/audio).
+- 옴니톡 서비스키 & 서비스 아이디
+  - [옴니톡 홈페이지](https://omnitalk.io) 를 방문하여 서비스 키와 아이디를 발급받아 주세요.
+  - 혹은 [이곳](https://omnitalk.io/demo/audio) 에서 1시간 동안 무료로 사용가능한 키를 받아주세요.
     
 ✅ 언어별로 필요한 요구사항에 대한 내용을 작성합니다. (서비스키 발급은 공통)
 
@@ -37,7 +37,7 @@ Omnitalk is a sdk that helps you easily implement real time communication on you
 
 ## Getting Started
 
-Use one of the following preferred package install methods to immediately get going.
+다음 설치 방법을 사용하여 설치를 진행 합니다.
 
 npm: `npm install omnitalk-sdk`<br/>
 cdn: `<script src="https://cdn.jsdelivr.net/npm/omnitalk-sdk@latest/omnitalk.min.js">`
@@ -47,7 +47,7 @@ cdn: `<script src="https://cdn.jsdelivr.net/npm/omnitalk-sdk@latest/omnitalk.min
 
 ## Documentation
 
-We provide an easy and detailed [documentation](https://docs.omnitalk.io/javascript). 
+쉽고 자세한 [문서](https://docs.omnitalk.io/javascript)를 제공하고 있습니다.
 
 ✅ 해당 언어의 문서 페이지를 연결합니다. (언어 별 링크 수정)
 <br/>
@@ -60,7 +60,7 @@ We provide an easy and detailed [documentation](https://docs.omnitalk.io/javascr
 
 ## Example Projects
 
-We have some basic eample projects included in the [demo](https://github.com/Luna-omni/readmdtest/tree/demos) directory.
+옴니톡 SDK로 구현된 간단한 [데모](https://github.com/Luna-omni/readmdtest/tree/demos)를 확인해 보세요.
 
 ✅ 해당 언어로 구현된 데모 브랜치로 합니다. (언어 별 링크 수정)
 
